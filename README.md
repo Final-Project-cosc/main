@@ -9,6 +9,15 @@
 - Three lives available
 - If lives = 0 → Game Over
 
+## Objective
+Through this project, we will learn:
+- How to use tkinter for building graphical user interfaces
+- How to handle keyboard input and game loops
+- How to implement collision detection and real-time game updates
+- How to use Pillow to load and display custom background images
+
+
+
 ## Flowchart explanation
 1. move_left Function
 Start (Oval): Left key press.
