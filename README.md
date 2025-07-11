@@ -1,4 +1,4 @@
-## Make sure that the (code file) and the (background file) is in the same folder for the code to work
+## Make sure to Install Pillow and also put the (code file) and the (background file) in the same folder for the code to work
 
 ## How the game work
 - A window with a basket at the bottom
